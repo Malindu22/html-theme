@@ -1,2 +1,2 @@
-# Thme
+# Theme
 html theme
